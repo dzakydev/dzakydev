@@ -1,14 +1,5 @@
-# Hello, I'm DZAKY.DEV 👋🏻
-
-![facebook](https://www.facebook.com/dzakydev/)
-![instagram](https://www.instagram.com/dzakydev)
-![twitter](https://twitter.com/dzakydev)
-![Likendin](https://id.linkedin.com/in/kangslot?trk=public_profile_samename-profile
-)
-![youtube}(https://www.youtube.com/meta)
-![dev.ito](dev.to/dzakydev)
-
-Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [Syaucademy](https://www.instagram.com/syaucademy/ "Syaucademy").
+# Hello, I'm DZAKY.DEV
+Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [dzakydev](https://www.instagram.com/dzakydev/ "dzakydev").
 
 - 🔭 I’m currently studying **Software Engineering** at Universitas Siliwangi
 - 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
