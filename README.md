@@ -1,9 +1,33 @@
-# Hello, I'm DZAKY.DEV
-Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [dzakydev](https://www.instagram.com/dzakydev/ "dzakydev").
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+      It's right for me, but not for you. Either way,<br>
+      the concept of "right" means no more than that.<br>
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
 
-- 🔭 I’m currently studying **Software Engineering** at Universitas Siliwangi
-- 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
-- 👯 I’m looking to collaborate on **Open Source** projects
-- 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
+<br>
 
+<details align="center">
+<summary> &#9655;</summary>
+
+<h2></h2><br>
+<p align="center">
+  <samp>
+    [<a href="https://www.facebook.com/dzakydev">facebookx</a>]
+    [<a href="mailto:dzaky@meta.com">e-mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
+```sh
+curl -sL https://git.io/JKsMD | gpg --import
+```
+
+```console
+B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826
+```
+
+</details>
