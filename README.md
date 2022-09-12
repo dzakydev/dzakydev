@@ -1,4 +1,3 @@
-![6](https://user-images.githubusercontent.com/69670050/189613852-84fad0bd-a820-4f45-b4e7-455d47d05de0.jpg)
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
